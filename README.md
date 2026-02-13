@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
