@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
