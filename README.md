@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
@@ -35,6 +36,7 @@
 | [0189-rotate-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1528-shuffle-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1528-shuffle-string) |
@@ -62,6 +64,7 @@
 | [0169-majority-element](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
