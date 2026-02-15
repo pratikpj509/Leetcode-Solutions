@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
