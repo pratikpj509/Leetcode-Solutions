@@ -7,12 +7,14 @@
 | [0169-majority-element](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1528-shuffle-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 ## Counting
 |  |
@@ -53,11 +55,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
