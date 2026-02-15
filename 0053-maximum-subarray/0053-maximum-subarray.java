@@ -1,19 +1,44 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int currSum = nums[0];   // running sum
-        int maxSum = nums[0];    // best seen so far
 
-        for (int i = 1; i < nums.length; i++) {
-            // decide whether to start a new subarray or continue old one
-            currSum = Math.max(nums[i], currSum + nums[i]);
-            
-            // update global max
-            maxSum = Math.max(maxSum, currSum);
+        int sum = 0;
+        int max = nums[0];
+
+        for (int i = 0; i < nums.length; i++) {
+
+            sum += nums[i];
+
+            if (sum > max) {
+                max = sum;
+            }
+
+            // If sum becomes negative, reset it
+            if (sum < 0) {
+                sum = 0;
+            }
         }
 
-        return maxSum;
+        return max;
     }
 }
+
+
+// class Solution {
+//     public int maxSubArray(int[] nums) {
+//         int currSum = nums[0];   // running sum
+//         int maxSum = nums[0];    // best seen so far
+
+//         for (int i = 1; i < nums.length; i++) {
+//             // decide whether to start a new subarray or continue old one
+//             currSum = Math.max(nums[i], currSum + nums[i]);
+            
+//             // update global max
+//             maxSum = Math.max(maxSum, currSum);
+//         }
+
+//         return maxSum;
+//     }
+// }
 
 
 // Let’s walk through like a flashlight traveling across hills:
