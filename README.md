@@ -12,6 +12,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1370-increasing-decreasing-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1370-increasing-decreasing-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 ## Counting
 |  |
@@ -28,6 +30,7 @@
 | [0169-majority-element](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1370-increasing-decreasing-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 ## Array
 |  |
 | ------- |
