@@ -18,6 +18,7 @@
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 ## Counting
 |  |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
