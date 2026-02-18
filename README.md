@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
