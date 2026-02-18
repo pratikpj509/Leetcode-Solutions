@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratikpj509/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
